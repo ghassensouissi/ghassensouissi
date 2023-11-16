@@ -1,7 +1,7 @@
  ![MasterHead](https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
 <h1 align="center">Hi 👋, I'm Ghassen Souissi</h1>
 <h3 align="center">A passionate Software Engineer specializing in embedded systems</h3>
-<p align="left">  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassensouissi&label=Profile%20views&color=0e75b6&style=plastic" alt="ghassensouissi" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="200" alt="Profile Image"/>
   
 - 🔭 I'm currently engaged in **my final year graduation project**
