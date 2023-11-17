@@ -10,7 +10,7 @@
   
 - 📫 How to reach me **Ghassen.souissi1@esprit.tn**
   
-- 📄 Know about my experiences [https://shorturl.at/eqMQX](https://shorturl.at/eqMQX)
+- 📄 Know about my experiences [https://ghassensouissi.github.io/](https://ghassensouissi.github.io/)
 
 
 - ⚡ Fun fact **Im Funny**
