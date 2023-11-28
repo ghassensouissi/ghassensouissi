@@ -22,7 +22,7 @@
  <table>
     <tr>
       <th><a href="https://ghassensouissi.github.io" target="_blank"><img alt="me on web" src="assets/www.svg" title="me on web" width="32" height="32" /></a></th>
-      <th><a href="mailto:ghassen.souissi1@gmail.com" target="_blank"><img alt="Gmail" src="assets/google-gmail.svg" title="Email" width="32" height="32" /></a></th>
+      <th><a href="mailto:Ghassen.souissi1@esprit.tn" target="_blank"><img alt="Gmail" src="assets/google-gmail.svg" title="Email" width="32" height="32" /></a></th>
       <th><a href="https://github.com/ghassensouissi" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a></th>
       <th><a href="assets/CV-GHASSEN-SOUISSI .pdf" target="_blank"><img alt="CV" title="CV" height="32" width="32" src="assets/cv.svg"></a></th>
       <th><a href="https://www.linkedin.com/in/ghassensouissi/" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a></th>
