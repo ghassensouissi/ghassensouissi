@@ -49,8 +49,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="50%">
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghassensouissi&" alt="ghassensouissi" />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassensouissi&langs_count=10&theme=tokyonight&layout=compact" alt="ghassensouissi :: Top Langs" /></p>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ghassensouissi&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassensouissi&theme=react&layout=compact" />
+</p>
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="50%">
 
