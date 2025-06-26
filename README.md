@@ -34,6 +34,8 @@
   <a href="https://www.linkedin.com/in/ghassensouissi/" target="_blank"><img src="assets/linkedin.svg" title="LinkedIn" width="32" /></a>
 </p>
 <br>
+
+<p align="left">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
